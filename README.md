@@ -2,10 +2,6 @@
 
  Welcome to my portfolio where I showcase various code snippets and projects!
 
- ## Table of Contents
-- Data Science (DataCamp)
-- Application Programming
-
 # Data Science (DataCamp)
 | Project | About |
 |---|---|
@@ -17,4 +13,6 @@
 | [Clustering Antarctic Penguin Species](https://github.com/Dynamack/data_science/tree/main/Clustering%20Antarctic%20Penguin%20Species) | Lorem ipsum |
 
 # Application Programming
-[Lyric Fetcher](https://github.com/Dynamack/Lyric_Fetcher)
+| Project | About |
+|---|---|
+| [Lyric Fetcher](https://github.com/Dynamack/Lyric_Fetcher) | Lorem ipsum |
