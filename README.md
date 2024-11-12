@@ -11,7 +11,7 @@
 | [Exploring Airbnb Market Trends](https://github.com/Dynamack/data_science/tree/main/Exploring%20Airbnb%20Market%20Trends) | Uncovering insights about Airbnb properties |
 | [Customer Analytics - Preparing Data for Modelling](https://github.com/Dynamack/data_science/tree/main/Customer%20Analytics%20-%20Preparing%20Data%20for%20Modelling) | Cleaning and transforming data to for efficiency and preparation for modelling |
 | [Analysing Crime in LA](https://github.com/Dynamack/data_science/tree/main/Analysing%20Crime%20in%20LA) | Analysing crime data to identify patterns in criminal behaviour |
-| [Hypothesis Testing with Men and Women's Football Matches](https://github.com/Dynamack/data_science/tree/main/Hypothesis%20Testing%20with%20Men%20and%20Women's%20Football%20Matches) | Hypothesis Testing between two independent samples |
+| [Hypothesis Testing with Men and Women's Football Matches](https://github.com/Dynamack/data_science/tree/main/Hypothesis%20Testing%20with%20Men%20and%20Women's%20Football%20Matches) | Hypothesis testing between two independent samples |
 
 # Application Programming
 | Project | About |
