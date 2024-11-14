@@ -5,6 +5,7 @@
 # Data Science (DataCamp)
 | Project | About |
 |---|---|
+| [Predicting Movie Rental Durations]([https://github.com/Dynamack/data_science/tree/main/Clustering%20Antarctic%20Penguin%20Species](https://github.com/Dynamack/data_science/tree/main/Predicting%20Movie%20Rentals%20Durations)) | Predicting movie rental durations and tuning for best model |
 | [Clustering Antarctic Penguin Species](https://github.com/Dynamack/data_science/tree/main/Clustering%20Antarctic%20Penguin%20Species) | Identifying penguin species using K-means clustering |
 | [Predictive Modelling for Agriculture](https://github.com/Dynamack/data_science/tree/main/Predictive%20Modelling%20for%20Agriculture) | Feature selection and classifying crops using Logistic Regression |
 | [Modelling Car Insurance Claim Outcomes](https://github.com/Dynamack/data_science/tree/main/Modelling%20Car%20Insurance%20Claim%20Outcomes) | Feature selection and predicting car insurance claim using Logistic Regression |
