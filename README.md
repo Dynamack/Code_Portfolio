@@ -13,6 +13,7 @@
 | [Customer Analytics - Preparing Data for Modelling](https://github.com/Dynamack/data_science/tree/main/Customer%20Analytics%20-%20Preparing%20Data%20for%20Modelling) | Cleaning and transforming data to for efficiency and preparation for modelling | Python |
 | [Analysing Crime in LA](https://github.com/Dynamack/data_science/tree/main/Analysing%20Crime%20in%20LA) | Analysing crime data to identify patterns in criminal behaviour | Python |
 | [Hypothesis Testing with Men and Women's Football Matches](https://github.com/Dynamack/data_science/tree/main/Hypothesis%20Testing%20with%20Men%20and%20Women's%20Football%20Matches) | Hypothesis testing between two independent samples | Python |
+| [When Was the Golden Era of Video Games?](https://github.com/Dynamack/data_science/tree/main/When%20Was%20The%20Golden%20Era%20of%20Video%20Games%3F) | Querying for user and critical scores of video games | PostgreSQL |
 | [Analysing Students' Mental Health](https://github.com/Dynamack/data_science/tree/main/Analysing%20Students'%20Mental%20Health) | Getting summary statistics on international students' mental health in Japan | PostgreSQL |
 
 # Application Programming
