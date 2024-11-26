@@ -3,11 +3,13 @@
  Welcome to my portfolio where I showcase various code snippets and projects!
 
 # Data Science
+Independent analyses
 | Project | About | Tools |
 |---|---|---|
 | [Premier League 2023/24 Season Analysis (in progress)](https://github.com/Dynamack/data_science_projects/tree/main/Premier%20League%2023-24%20Analysis) | Analysing data of the Premier League 2023/24 season | Python |
 
 # Data Science (DataCamp)
+Small projects taken from DataCamp courses
 | Project | About | Tools |
 |---|---|---|
 | [Predicting Movie Rental Durations](https://github.com/Dynamack/data_science/tree/main/Predicting%20Movie%20Rentals%20Durations) | Predicting movie rental durations and tuning for best model | Python |
@@ -22,6 +24,7 @@
 | [Analysing Students' Mental Health](https://github.com/Dynamack/data_science/tree/main/Analysing%20Students'%20Mental%20Health) | Getting summary statistics on international students' mental health in Japan | PostgreSQL |
 
 # Application Programming
+Application/script development
 | Project | About | Tools |
 |---|---|---|
 | [Lyric Fetcher](https://github.com/Dynamack/Lyric_Fetcher) | Script for fetching song lyrics via Genius.com API and writing to mp3 files metadata | Python |
